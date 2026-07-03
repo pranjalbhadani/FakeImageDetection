@@ -12,8 +12,9 @@ env.bak/
 venv.bak/
 
 # Project specific
-weights/
 outputs/
+weights/*
+!weights/best_model.pth
 dataset/ # Uncomment to ignore the dataset folder if it gets too large
 
 # PyTorch / Machine Learning
