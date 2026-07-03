@@ -27,3 +27,6 @@ joblib>=1.4.2
 # Model Export
 onnx>=1.16.1
 onnxruntime>=1.18.0
+
+# Web UI / Demo
+streamlit>=1.35.0
